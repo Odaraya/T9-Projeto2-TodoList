@@ -10,18 +10,18 @@ T9 | Front-end | 2020 | Semana 8 | Projeto JS
 --------------
 
 ## Requisitos
-    - Adicionar itens na lista
-    - Marcar itens concluídos individualmente
-    - Excluir itens individualmente
-    - Validar campo de texto para não entrar itens vazios
-    - Limpar campo de texto depois que insere o item na lista
+  OK  - Adicionar itens na lista
+  OK  - Marcar itens concluídos individualmente
+  OK  - Excluir itens individualmente
+  OK  - Validar campo de texto para não entrar itens vazios
+  OK  - Limpar campo de texto depois que insere o item na lista
 
 **BÔNUS**
 
-    - Marcar todos os itens como feito
-    - Excluir todos os itens da lista
-    - Reorganizar a ordem "arrastando" os cards utilizando drag and drop
-
+  ok  - Marcar todos os itens como feito
+  ok  - Excluir todos os itens da lista
+  | |  - Reorganizar a ordem "arrastando" os cards utilizando drag and drop
+  | |  - refresh da pagina sem que os items da lista desapareção(local storage).
 --------------
 
 ## CRONOGRAMA

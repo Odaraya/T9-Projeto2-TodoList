@@ -57,7 +57,7 @@ body {
     padding: 0; 
 }
 
-.todo__tarefas-lista li {
+.todo__tarefas-lista span {
     border-bottom: 1px solid #ccc;
     padding: 0.5rem;
     font-size: 1rem;
@@ -68,7 +68,7 @@ body {
     justify-content: space-between; 
 }
 
-.todo__tarefas-lista li .checked {
+.todo__tarefas-lista li.checked {
     color: #ccc;
     text-decoration: line-through; 
 }
